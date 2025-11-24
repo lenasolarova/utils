@@ -46,4 +46,4 @@ yq -o=json '.repos | to_entries | map(select(.value.source == "gitlab"))' "$REPO
         printf '"%s","%s","%s","%s","%s","%s","%s"\n' \
           "$repo_key" "$pr_id" "$safe_title" "$created_at" "$url" "$author" "$ci_status"
       done
-done
+done | sort -t',' -k4 -r

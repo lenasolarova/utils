@@ -29,4 +29,4 @@ yq -o=json '.repos | to_entries | map(select(.value.source == "github"))' "$REPO
           ) |
           [$r, .number, .title, .createdAt, .url, .author.login, .ci_status] | @csv
       '
-done
+done | sort -t',' -k4 -r
