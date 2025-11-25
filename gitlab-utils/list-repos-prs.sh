@@ -2,10 +2,15 @@
 set -euo pipefail
 
 REPOS_FILE="ansible-utils/playbooks/vars/repos.yaml"
+KONFLUX_AUTHOR="app/red-hat-konflux"
+TEMP_CSV=$(mktemp)
+KONFLUX_CSV=$(mktemp)
+OTHER_CSV=$(mktemp)
 
-# CSV header
-echo "repo,pr_id,title,date_created,url,author,ci_status"
+# Cleanup temp files on exit
+trap 'rm -f "$TEMP_CSV" "$KONFLUX_CSV" "$OTHER_CSV"' EXIT
 
+# Collect all PRs into temporary CSV
 yq -o=json '.repos | to_entries | map(select(.value.source == "gitlab"))' "$REPOS_FILE" \
   | jq -c '.[]' | while read -r line; do
     repo_key=$(echo "$line" | jq -r '.key')
@@ -46,4 +51,28 @@ yq -o=json '.repos | to_entries | map(select(.value.source == "gitlab"))' "$REPO
         printf '"%s","%s","%s","%s","%s","%s","%s"\n' \
           "$repo_key" "$pr_id" "$safe_title" "$created_at" "$url" "$author" "$ci_status"
       done
-done
+done > "$TEMP_CSV"
+
+# Sort all PRs by date (newest first) and split into two files
+{
+  echo "repo,pr_id,title,date_created,url,author,ci_status"
+  sort -t',' -k4 -r "$TEMP_CSV" | grep "\"$KONFLUX_AUTHOR\""
+} > "$KONFLUX_CSV"
+
+{
+  echo "repo,pr_id,title,date_created,url,author,ci_status"
+  sort -t',' -k4 -r "$TEMP_CSV" | grep -v "\"$KONFLUX_AUTHOR\""
+} > "$OTHER_CSV"
+
+# Generate markdown files
+TIMESTAMP=$(date '+%Y/%m/%d %H:%M:%S')
+
+echo "# Open Merge Requests (app/red-hat-konflux) - $TIMESTAMP" > gitlab-utils/open-prs-konflux.md
+csv2md "$KONFLUX_CSV" >> gitlab-utils/open-prs-konflux.md
+
+echo "# Open Merge Requests (Others) - $TIMESTAMP" > gitlab-utils/open-prs-others.md
+csv2md "$OTHER_CSV" >> gitlab-utils/open-prs-others.md
+
+echo "Generated:"
+echo "  - gitlab-utils/open-prs-konflux.md ($(wc -l < "$KONFLUX_CSV" | xargs) PRs)"
+echo "  - gitlab-utils/open-prs-others.md ($(wc -l < "$OTHER_CSV" | xargs) PRs)"
