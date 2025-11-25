@@ -1,7 +1,6 @@
 # Open Pull Requests
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2330 | chore(deps): update all dependencies | 2025-11-21T16:54:26Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2330 | app/red-hat-konflux | failed
 insights-results-aggregator | 2301 | Add dependency for dvo-writer | 2025-10-22T22:07:54Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2301 | ikerreyes | ok
 insights-results-aggregator | 2260 | fix: don't add empty rule IDs | 2025-09-05T08:18:51Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2260 | juandspy | ok
 insights-results-aggregator-cleaner | 549 | chore(deps): update all dependencies | 2025-11-24T13:00:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/549 | app/red-hat-konflux | failed
