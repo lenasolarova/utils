@@ -64,15 +64,18 @@ done > "$TEMP_CSV"
   sort -t',' -k4 -r "$TEMP_CSV" | grep -v "\"$KONFLUX_AUTHOR\""
 } > "$OTHER_CSV"
 
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # Generate markdown files
 TIMESTAMP=$(date '+%Y/%m/%d %H:%M:%S')
 
-echo "# Open Merge Requests (app/red-hat-konflux) - $TIMESTAMP" > gitlab-utils/open-prs-konflux.md
-csv2md "$KONFLUX_CSV" >> gitlab-utils/open-prs-konflux.md
+echo "# Open Merge Requests (app/red-hat-konflux) - $TIMESTAMP" > "$SCRIPT_DIR/open-prs-konflux.md"
+csv2md "$KONFLUX_CSV" >> "$SCRIPT_DIR/open-prs-konflux.md"
 
-echo "# Open Merge Requests (Others) - $TIMESTAMP" > gitlab-utils/open-prs-others.md
-csv2md "$OTHER_CSV" >> gitlab-utils/open-prs-others.md
+echo "# Open Merge Requests (Others) - $TIMESTAMP" > "$SCRIPT_DIR/open-prs-others.md"
+csv2md "$OTHER_CSV" >> "$SCRIPT_DIR/open-prs-others.md"
 
 echo "Generated:"
-echo "  - gitlab-utils/open-prs-konflux.md ($(wc -l < "$KONFLUX_CSV" | xargs) PRs)"
-echo "  - gitlab-utils/open-prs-others.md ($(wc -l < "$OTHER_CSV" | xargs) PRs)"
+echo "  - $SCRIPT_DIR/open-prs-konflux.md ($(wc -l < "$KONFLUX_CSV" | xargs) PRs)"
+echo "  - $SCRIPT_DIR/open-prs-others.md ($(wc -l < "$OTHER_CSV" | xargs) PRs)"
