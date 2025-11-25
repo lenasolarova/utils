@@ -33,7 +33,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ./github-utils/list-repos-prs.sh
+          ./github-utils/list-repos-prs.sh > github-utils/open-prs.csv
+
+          # Split into konflux and others, then convert to markdown
+          echo "# Open Pull Requests (app/red-hat-konflux) - $(date '+%Y/%m/%d %H:%M:%S')" > github-utils/open-prs-konflux.md
+          (head -n1 github-utils/open-prs.csv && tail -n+2 github-utils/open-prs.csv | grep '"app/red-hat-konflux"') | csv2md >> github-utils/open-prs-konflux.md
+
+          echo "# Open Pull Requests (Others) - $(date '+%Y/%m/%d %H:%M:%S')" > github-utils/open-prs-others.md
+          (head -n1 github-utils/open-prs.csv && tail -n+2 github-utils/open-prs.csv | grep -v '"app/red-hat-konflux"') | csv2md >> github-utils/open-prs-others.md
 
       - name: Commit and push changes
         env:
