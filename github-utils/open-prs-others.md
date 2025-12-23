@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2025/12/22 04:31:51
+# Open Pull Requests (Others) - 2025/12/23 04:29:13
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2347 | [CCXDEV-15658] Disable sourcery AI | 2025-12-19T14:52:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2347 | matysek | ok
