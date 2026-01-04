@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/01/03 04:22:48
+# Open Pull Requests (Others) - 2026/01/04 04:40:14
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2346 | [CCXDEV-15852] fix: wrong resource parameter names | 2025-12-19T12:25:04Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2346 | juandspy | failed
