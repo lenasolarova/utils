@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/01/11 04:38:58
+# Open Pull Requests (app/red-hat-konflux) - 2026/01/12 04:40:44
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator-exporter | 500 | chore(deps): update module github.com/go-ini/ini to v1.67.1 | 2026-01-11T00:43:55Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/500 | app/red-hat-konflux | failed
