@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/01/17 04:23:01
+# Open Pull Requests (Others) - 2026/01/18 04:34:03
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 637 | [CCXDEV-15881] Remove multiplexor stage two | 2026-01-14T08:39:42Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/637 | lenasolarova | failed
