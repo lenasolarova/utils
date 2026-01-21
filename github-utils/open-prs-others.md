@@ -1,8 +1,8 @@
-# Open Pull Requests (Others) - 2026/01/20 04:36:33
+# Open Pull Requests (Others) - 2026/01/21 04:36:32
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 640 | build(deps): update boto3 requirement from <1.42.26,>=1.34.1 to >=1.34.1,<1.42.31 | 2026-01-19T08:07:32Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/640 | app/dependabot | failed
-ccx-notification-service | 1048 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.486 to 0.1.487 | 2026-01-13T08:11:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1048 | app/dependabot | failed
+ccx-messaging | 641 | Pin sentry-sdk minimal version due to fixed bugs | 2026-01-20T11:17:47Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/641 | joselsegura | ok
 insights-results-aggregator | 2348 | Do not merge! Testing coderabbitai | 2026-01-05T13:02:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2348 | matysek | ok
 ccx-messaging | 632 | Do not merge! Testing coderabbitai | 2026-01-05T12:53:25Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/632 | matysek | ok
 ccx-smart-proxy | 1647 | Do not merge! Testing coderabbitai | 2026-01-05T11:12:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1647 | matysek | ok
