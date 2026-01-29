@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/01/28 04:36:24
+# Open Pull Requests (Others) - 2026/01/29 05:00:14
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1663 | Bump github.com/redis/go-redis/v9 from 9.17.2 to 9.17.3 | 2026-01-26T19:39:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1663 | app/dependabot | failed
