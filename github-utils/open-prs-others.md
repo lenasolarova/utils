@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/01/31 04:55:43
+# Open Pull Requests (Others) - 2026/02/01 05:18:30
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1057 | [CCXDEV-15685] No error handling if the report doesn't exist | 2026-01-30T11:38:38Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1057 | joselsegura | failed
