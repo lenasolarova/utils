@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/02/17 05:15:51
+# Open Pull Requests (Others) - 2026/02/18 05:18:30
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 650 | build(deps): bump aiobotocore from 2.26.0 to 3.1.3 | 2026-02-16T07:34:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/650 | app/dependabot | failed
