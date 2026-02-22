@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/02/21 04:59:40
+# Open Pull Requests (app/red-hat-konflux) - 2026/02/22 05:11:07
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-writer | 756 | chore(deps): update all dependencies | 2026-02-21T01:11:13Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/756 | app/red-hat-konflux | failed
