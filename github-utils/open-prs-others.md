@@ -1,7 +1,7 @@
-# Open Pull Requests (Others) - 2026/02/24 05:16:11
+# Open Pull Requests (Others) - 2026/02/25 05:18:20
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-behavioral-spec | 730 | Unifying the log path handling | 2026-02-23T16:09:37Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/730 | joselsegura | failed
+ccx-notification-service | 1061 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.494 to 0.1.495 | 2026-02-24T07:12:41Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1061 | app/dependabot | failed
 ccx-messaging | 650 | build(deps): bump aiobotocore from 2.26.0 to 3.1.3 | 2026-02-16T07:34:15Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/650 | app/dependabot | failed
 insights-results-aggregator | 2363 | [DONT MERGE] Use reusable BDD workflow | 2026-02-12T12:31:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2363 | joselsegura | failed
 ccx-smart-proxy | 1670 | dummy commit to test CI | 2026-02-11T21:00:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1670 | Bee-lee | ok
