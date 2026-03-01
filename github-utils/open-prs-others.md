@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/02/28 04:46:10
+# Open Pull Requests (Others) - 2026/03/01 05:13:25
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2369 | Use reusable workflow for BDD tests | 2026-02-27T15:00:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2369 | joselsegura | failed
