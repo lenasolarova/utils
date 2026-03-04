@@ -1,9 +1,12 @@
-# Open Pull Requests (Others) - 2026/03/03 05:09:27
+# Open Pull Requests (Others) - 2026/03/04 05:03:01
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 652 | build(deps): update boto3 requirement from <1.42.55,>=1.34.1 to >=1.34.1,<1.42.60 | 2026-03-02T07:32:45Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/652 | app/dependabot | failed
+insights-behavioral-spec | 736 | Move Behave runner to a common function | 2026-03-03T12:50:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/736 | joselsegura | ok
+ccx-smart-proxy | 1679 | Trigger Build | 2026-03-03T09:42:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1679 | ikerreyes | failed
+ccx-messaging | 654 | Trigger Build | 2026-03-03T09:41:46Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/654 | ikerreyes | failed
+ccx-messaging | 653 | [CCXDEV-14695] Remove pr_check as we move tests to Konflux | 2026-03-03T09:34:22Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/653 | ikerreyes | failed
 ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
-insights-behavioral-spec | 733 | Adapt scripts for aggregator-cleaner | 2026-03-02T16:34:32Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/733 | joselsegura | ok
 ccx-smart-proxy | 1678 | [CCXDEV-14694] We are moving IQE tests to Konflux so we do not need the pr_check script anymore | 2026-03-02T12:50:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1678 | ikerreyes | failed
 ccx-notification-service | 1065 | Bump github.com/IBM/sarama from 1.46.3 to 1.47.0 | 2026-03-02T07:17:36Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1065 | app/dependabot | failed
 ccx-smart-proxy | 1676 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.496 to 0.1.497 | 2026-02-26T17:54:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1676 | app/dependabot | failed
