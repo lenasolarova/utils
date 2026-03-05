@@ -1,10 +1,7 @@
-# Open Pull Requests (Others) - 2026/03/04 05:03:01
+# Open Pull Requests (Others) - 2026/03/05 05:07:30
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 652 | build(deps): update boto3 requirement from <1.42.55,>=1.34.1 to >=1.34.1,<1.42.60 | 2026-03-02T07:32:45Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/652 | app/dependabot | failed
-insights-behavioral-spec | 736 | Move Behave runner to a common function | 2026-03-03T12:50:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/736 | joselsegura | ok
-ccx-smart-proxy | 1679 | Trigger Build | 2026-03-03T09:42:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1679 | ikerreyes | failed
-ccx-messaging | 654 | Trigger Build | 2026-03-03T09:41:46Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/654 | ikerreyes | failed
 ccx-messaging | 653 | [CCXDEV-14695] Remove pr_check as we move tests to Konflux | 2026-03-03T09:34:22Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/653 | ikerreyes | failed
 ccx-insights-content-template-renderer | 251 | Bump fastapi from 0.132.0 to 0.135.1 | 2026-03-03T00:27:00Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/251 | app/dependabot | failed
 ccx-smart-proxy | 1678 | [CCXDEV-14694] We are moving IQE tests to Konflux so we do not need the pr_check script anymore | 2026-03-02T12:50:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1678 | ikerreyes | failed
