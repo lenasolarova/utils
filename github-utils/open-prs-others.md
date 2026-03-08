@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/03/07 04:53:24
+# Open Pull Requests (Others) - 2026/03/08 05:04:31
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator-exporter | 519 | Bump github.com/minio/minio-go/v7 from 7.0.98 to 7.0.99 | 2026-03-06T23:13:19Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/519 | app/dependabot | ok
