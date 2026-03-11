@@ -1,6 +1,9 @@
-# Open Pull Requests (Others) - 2026/03/10 05:04:28
+# Open Pull Requests (Others) - 2026/03/11 05:05:38
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2380 | Integrate pre commit | 2026-03-10T15:11:49Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2380 | joselsegura | failed
+ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
+ccx-smart-proxy | 1682 | Fix some shellcheck errors | 2026-03-10T10:15:15Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1682 | joselsegura | failed
 insights-results-aggregator | 2378 | [CCXDEV-14693] Remove pr_check script as integration tests should be in konflux | 2026-03-09T21:26:14Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2378 | ikerreyes | failed
 insights-results-aggregator | 2377 | Fix some shellcheck issues found while testing | 2026-03-09T16:49:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2377 | joselsegura | failed
 insights-results-aggregator | 2376 | Bump golang.org/x/sync from 0.19.0 to 0.20.0 | 2026-03-09T08:04:09Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2376 | app/dependabot | failed
