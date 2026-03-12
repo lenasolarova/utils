@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/03/11 05:05:38
+# Open Pull Requests (Others) - 2026/03/12 05:10:27
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-smart-proxy | 1684 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.497 to 0.1.498 | 2026-03-11T17:52:46Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1684 | app/dependabot | failed
 insights-results-aggregator | 2380 | Integrate pre commit | 2026-03-10T15:11:49Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2380 | joselsegura | failed
 ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
 ccx-smart-proxy | 1682 | Fix some shellcheck errors | 2026-03-10T10:15:15Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1682 | joselsegura | failed
