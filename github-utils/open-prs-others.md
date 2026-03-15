@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/03/14 05:05:28
+# Open Pull Requests (Others) - 2026/03/15 05:23:55
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-insights-content-template-renderer | 252 | Remove pr_check script as now testing is done in konflux | 2026-03-13T10:21:09Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/252 | ikerreyes | failed
