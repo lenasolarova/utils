@@ -1,7 +1,8 @@
-# Open Pull Requests (Others) - 2026/03/18 05:21:18
+# Open Pull Requests (Others) - 2026/03/19 05:17:55
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-behavioral-spec | 747 | Linters reusable workflow | 2026-03-17T13:04:52Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/747 | joselsegura | failed
+insights-results-aggregator-exporter | 521 | [CCXDEV-15354] Linters reusable workflow | 2026-03-18T15:04:04Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/521 | joselsegura | ok
+ccx-insights-content-template-renderer | 255 | Linters reusable workflow | 2026-03-18T12:16:54Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/255 | joselsegura | failed
 ccx-notification-service | 1074 | Tidy up Makefile and remove unused script | 2026-03-16T12:49:57Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1074 | joselsegura | ok
 ccx-notification-service | 1071 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.497 to 0.1.498 | 2026-03-12T07:12:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1071 | app/dependabot | failed
 ccx-smart-proxy | 1683 | [pre-commit] Remove trailing whitespaces | 2026-03-10T10:47:31Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1683 | joselsegura | failed
