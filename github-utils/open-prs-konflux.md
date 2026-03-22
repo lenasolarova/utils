@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/03/21 05:00:26
+# Open Pull Requests (app/red-hat-konflux) - 2026/03/22 05:14:28
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2390 | chore(deps): update all dependencies | 2026-03-20T17:28:05Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2390 | app/red-hat-konflux | failed

@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/03/21 05:00:26
+# Open Pull Requests (Others) - 2026/03/22 05:14:28
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 659 | [CCXDEV-15098] rules-uploader add python env vars for better debugging | 2026-03-20T16:38:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/659 | matysek | ok
