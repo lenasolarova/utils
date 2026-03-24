@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/03/23 05:25:39
+# Open Pull Requests (Others) - 2026/03/24 05:18:23
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-insights-content-template-renderer | 256 | Bump fastapi from 0.132.0 to 0.135.2 | 2026-03-23T23:13:37Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/256 | app/dependabot | failed
 ccx-messaging | 659 | [CCXDEV-15098] rules-uploader add python env vars for better debugging | 2026-03-20T16:38:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/659 | matysek | ok
 ccx-smart-proxy | 1686 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-19T19:50:42Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1686 | app/dependabot | failed
 ccx-notification-writer | 774 | Bump github.com/lib/pq from 1.11.2 to 1.12.0 | 2026-03-19T14:04:22Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/774 | app/dependabot | failed
