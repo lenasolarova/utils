@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/03/24 05:18:23
+# Open Pull Requests (Others) - 2026/03/25 05:18:33
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-insights-content-template-renderer | 256 | Bump fastapi from 0.132.0 to 0.135.2 | 2026-03-23T23:13:37Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/256 | app/dependabot | failed
