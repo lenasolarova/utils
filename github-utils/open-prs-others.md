@@ -1,9 +1,16 @@
-# Open Pull Requests (Others) - 2026/03/25 05:18:33
+# Open Pull Requests (Others) - 2026/03/26 05:26:56
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+obsint-mocks | 163 | Update renovate.json configuration | 2026-03-25T13:24:46Z | https://github.com/RedHatInsights/obsint-mocks/pull/163 | joselsegura | ok
+ccx-smart-proxy | 1687 | Update renovate.json configuration | 2026-03-25T13:24:41Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1687 | joselsegura | ok
+insights-results-aggregator-exporter | 529 | Update renovate.json configuration | 2026-03-25T13:24:37Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/529 | joselsegura | ok
+insights-results-aggregator-cleaner | 633 | Update renovate.json configuration | 2026-03-25T13:24:31Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/633 | joselsegura | ok
+io-gathering-service | 595 | Update renovate.json configuration | 2026-03-25T13:24:26Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/595 | joselsegura | ok
+ccx-insights-content-template-renderer | 257 | Update renovate.json configuration | 2026-03-25T13:24:20Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/257 | joselsegura | failed
+ccx-messaging | 663 | Update renovate.json configuration | 2026-03-25T13:24:16Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/663 | joselsegura | ok
+ccx-notification-writer | 776 | Update renovate.json configuration | 2026-03-25T13:23:52Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/776 | joselsegura | failed
+ccx-notification-service | 1078 | Update renovate.json configuration | 2026-03-25T13:23:47Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1078 | joselsegura | failed
 ccx-insights-content-template-renderer | 256 | Bump fastapi from 0.132.0 to 0.135.2 | 2026-03-23T23:13:37Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/256 | app/dependabot | failed
-ccx-messaging | 659 | [CCXDEV-15098] rules-uploader add python env vars for better debugging | 2026-03-20T16:38:50Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/659 | matysek | ok
-ccx-smart-proxy | 1686 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-19T19:50:42Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1686 | app/dependabot | failed
 ccx-notification-writer | 774 | Bump github.com/lib/pq from 1.11.2 to 1.12.0 | 2026-03-19T14:04:22Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/774 | app/dependabot | failed
 ccx-smart-proxy | 1685 | Linters reusable workflow | 2026-03-19T11:51:34Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1685 | joselsegura | failed
 ccx-notification-service | 1076 | Bump github.com/lib/pq from 1.11.2 to 1.12.0 | 2026-03-19T07:12:40Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1076 | app/dependabot | failed
