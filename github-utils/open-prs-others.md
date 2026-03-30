@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/03/29 05:29:44
+# Open Pull Requests (Others) - 2026/03/30 05:53:27
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1080 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-27T15:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1080 | app/dependabot | failed
