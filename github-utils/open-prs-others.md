@@ -1,6 +1,9 @@
-# Open Pull Requests (Others) - 2026/03/30 05:53:27
+# Open Pull Requests (Others) - 2026/03/31 05:30:13
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-messaging | 670 | build(deps): update boto3 requirement from <1.42.74,>=1.34.1 to >=1.34.1,<1.42.79 | 2026-03-30T07:38:19Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/670 | app/dependabot | ok
+ccx-insights-content-template-renderer | 260 | Bump requests from 2.32.5 to 2.33.1 | 2026-03-30T23:23:35Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/260 | app/dependabot | ok
+ccx-messaging | 671 | [CCXDEV-15098] Fix memory leak - add broker size observability gauges | 2026-03-30T14:29:39Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/671 | matysek | ok
 ccx-notification-service | 1080 | Bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 | 2026-03-27T15:50:51Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1080 | app/dependabot | failed
 obsint-mocks | 167 | Update CODEOWNERS file | 2026-03-27T13:05:46Z | https://github.com/RedHatInsights/obsint-mocks/pull/167 | joselsegura | ok
 ccx-insights-content-template-renderer | 259 | Bump requests from 2.32.5 to 2.33.0 | 2026-03-26T16:19:04Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/259 | app/dependabot | ok
