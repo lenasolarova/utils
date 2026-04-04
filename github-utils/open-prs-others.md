@@ -1,7 +1,8 @@
-# Open Pull Requests (Others) - 2026/04/03 05:27:43
+# Open Pull Requests (Others) - 2026/04/04 05:16:46
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 670 | build(deps): update boto3 requirement from <1.42.74,>=1.34.1 to >=1.34.1,<1.42.79 | 2026-03-30T07:38:19Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/670 | app/dependabot | ok
+insights-results-aggregator-exporter | 539 | Bump github.com/lib/pq from 1.12.2 to 1.12.3 | 2026-04-03T23:12:58Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/539 | app/dependabot | failed
 ccx-smart-proxy | 1694 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.498 to 0.1.499 | 2026-03-31T17:52:39Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1694 | app/dependabot | failed
 ccx-insights-content-template-renderer | 260 | Bump requests from 2.32.5 to 2.33.1 | 2026-03-30T23:23:35Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/260 | app/dependabot | ok
 ccx-messaging | 671 | [CCXDEV-15098] Fix memory leak - add broker size observability gauges | 2026-03-30T14:29:39Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/671 | matysek | ok
