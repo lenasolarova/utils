@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/04/04 05:16:46
+# Open Pull Requests (app/red-hat-konflux) - 2026/04/05 05:40:24
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 io-gathering-service | 602 | chore(deps): update all dependencies | 2026-04-03T21:47:36Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/602 | app/red-hat-konflux | failed
