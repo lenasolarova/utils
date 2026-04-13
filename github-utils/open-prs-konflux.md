@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/04/12 05:48:46
+# Open Pull Requests (app/red-hat-konflux) - 2026/04/13 06:07:50
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-insights-content-template-renderer | 264 | Update Python dependencies | 2026-04-10T13:55:32Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/264 | app/red-hat-konflux | ok
