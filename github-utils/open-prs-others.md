@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/04/14 05:53:51
+# Open Pull Requests (Others) - 2026/04/15 05:53:56
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 682 | build(deps): update boto3 requirement from <1.42.84,>=1.34.1 to >=1.34.1,<1.42.89 | 2026-04-13T07:41:07Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/682 | app/dependabot | failed
