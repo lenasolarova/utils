@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/04/18 05:27:51
+# Open Pull Requests (Others) - 2026/04/19 05:51:49
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-insights-content-template-renderer | 276 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-04-16T12:30:11Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/276 | app/obsint-processing-app | failed

@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/04/18 05:27:51
+# Open Pull Requests (app/red-hat-konflux) - 2026/04/19 05:51:49
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 694 | chore(deps): update dependency boto3 to >=1.42.91,<1.43.0 | 2026-04-16T17:38:27Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/694 | app/red-hat-konflux | failed
