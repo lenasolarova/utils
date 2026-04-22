@@ -1,9 +1,12 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/04/21 05:56:20
+# Open Pull Requests (app/red-hat-konflux) - 2026/04/22 05:54:05
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-messaging | 694 | chore(deps): update dependency boto3 to >=1.42.92,<1.43.0 | 2026-04-16T17:38:27Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/694 | app/red-hat-konflux | failed
-ccx-notification-writer | 802 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2026-04-20T15:54:18Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/802 | app/red-hat-konflux | failed
-io-gathering-service | 630 | chore(deps): update module go.yaml.in/yaml/v2 to v3 | 2026-04-18T01:37:52Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/630 | app/red-hat-konflux | failed
+ccx-notification-service | 1107 | fix(deps): update go dependencies | 2026-04-22T01:41:32Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1107 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 697 | chore(deps): update go dependencies | 2026-04-21T14:08:39Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/697 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1706 | Update Pre-commit hooks | 2026-04-21T14:04:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1706 | app/red-hat-konflux | failed
+insights-results-aggregator-exporter | 582 | chore(deps): update module github.com/getsentry/sentry-go to v0.46.0 | 2026-04-21T14:03:46Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/582 | app/red-hat-konflux | failed
+ccx-notification-writer | 804 | chore(deps): update go dependencies | 2026-04-21T09:49:07Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/804 | app/red-hat-konflux | failed
+io-gathering-service | 638 | chore(deps): update go dependencies | 2026-04-21T09:48:30Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/638 | app/red-hat-konflux | failed
+insights-results-aggregator | 2451 | chore(deps): update go dependencies | 2026-04-21T09:48:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2451 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1703 | Update Go dependencies | 2026-04-16T17:43:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1703 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1702 | Update Pre-commit hooks | 2026-04-16T17:39:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1702 | app/red-hat-konflux | ok
-insights-behavioral-spec | 753 | Update dependency github-pages to v232 | 2026-04-16T17:37:59Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/753 | app/red-hat-konflux | ok
+ccx-messaging | 694 | chore(deps): update python dependencies | 2026-04-16T17:38:27Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/694 | app/red-hat-konflux | failed
