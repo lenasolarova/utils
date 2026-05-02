@@ -1,7 +1,8 @@
-# Open Pull Requests (Others) - 2026/05/01 06:30:01
+# Open Pull Requests (Others) - 2026/05/02 05:59:23
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 723 | build(deps): update boto3 requirement from <1.42.92,>=1.42.91 to >=1.42.91,<1.42.97 | 2026-04-27T08:10:12Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/723 | app/dependabot | ok
+ccx-smart-proxy | 1725 | Bump github.com/openshift-online/ocm-sdk-go from 0.1.499 to 0.1.500 | 2026-05-01T21:18:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1725 | app/dependabot | ok
 ccx-smart-proxy | 1724 | Bump github.com/redis/go-redis/v9 from 9.18.0 to 9.19.0 | 2026-04-28T17:52:53Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1724 | app/dependabot | ok
 insights-behavioral-spec | 762 | Update python-multipart requirement from >=0.0.19 to >=0.0.27 | 2026-04-27T11:25:41Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/762 | app/dependabot | ok
 insights-behavioral-spec | 761 | Update setuptools requirement from >=70.0.0 to >=82.0.1 | 2026-04-27T11:25:36Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/761 | app/dependabot | ok
