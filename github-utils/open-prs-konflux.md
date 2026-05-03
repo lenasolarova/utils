@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/02 05:59:23
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/03 06:19:35
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2474 | chore(deps): update pre-commit hook golangci/golangci-lint to v2.12.1 | 2026-05-01T17:47:56Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2474 | app/red-hat-konflux | failed
