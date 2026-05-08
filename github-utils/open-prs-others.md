@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/05/07 06:28:03
+# Open Pull Requests (Others) - 2026/05/08 05:49:38
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2476 | [HOLD] Use reusable workflow | 2026-05-04T09:44:27Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2476 | joselsegura | failed
