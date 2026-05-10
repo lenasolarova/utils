@@ -1,8 +1,9 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/09 06:07:54
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/10 06:27:01
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-notification-writer | 842 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-10T05:45:09Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/842 | app/red-hat-konflux | ok
+insights-results-aggregator | 2489 | chore(deps): update go dependencies | 2026-05-09T06:10:52Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2489 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 742 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:53Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/742 | app/red-hat-konflux | ok
-ccx-notification-writer | 840 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:50Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/840 | app/red-hat-konflux | ok
 insights-results-aggregator-exporter | 630 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:41Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/630 | app/red-hat-konflux | ok
 insights-behavioral-spec | 785 | Update RedHatInsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:38Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/785 | app/red-hat-konflux | ok
 obsint-mocks | 240 | chore(deps): update redhatinsights/processing-tools action to v0.4.4 | 2026-05-09T06:05:30Z | https://github.com/RedHatInsights/obsint-mocks/pull/240 | app/red-hat-konflux | ok
