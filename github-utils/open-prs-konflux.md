@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/17 06:37:51
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/18 07:52:48
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-writer | 845 | fix(deps): update go dependencies | 2026-05-13T01:51:40Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/845 | app/red-hat-konflux | failed
