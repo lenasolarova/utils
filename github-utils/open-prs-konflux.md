@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/24 06:52:19
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/25 08:09:19
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2504 | chore(deps): update go dependencies | 2026-05-21T18:00:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2504 | app/red-hat-konflux | failed
