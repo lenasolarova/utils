@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/26 07:33:52
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/27 07:54:21
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2505 | chore(deps): lock file maintenance ruby dependencies | 2026-05-26T01:38:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2505 | app/red-hat-konflux | failed
