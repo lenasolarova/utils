@@ -1,9 +1,10 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/27 07:54:21
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/28 07:45:21
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator-exporter | 648 | fix(deps): update go dependencies | 2026-05-28T04:57:28Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/648 | app/red-hat-konflux | failed
 insights-results-aggregator | 2505 | chore(deps): lock file maintenance ruby dependencies | 2026-05-26T01:38:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2505 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
-insights-results-aggregator | 2504 | chore(deps): update go dependencies | 2026-05-21T18:00:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2504 | app/red-hat-konflux | failed
+insights-results-aggregator | 2504 | fix(deps): update go dependencies | 2026-05-21T18:00:17Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2504 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1767 | Update GitHub Actions | 2026-05-21T17:56:38Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1767 | app/red-hat-konflux | failed
 insights-results-aggregator | 2503 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.15.14 | 2026-05-21T17:56:13Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2503 | app/red-hat-konflux | failed
 ccx-notification-service | 1206 | fix(deps): update go dependencies | 2026-05-21T10:07:37Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1206 | app/red-hat-konflux | ok
