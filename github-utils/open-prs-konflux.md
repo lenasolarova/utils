@@ -1,9 +1,6 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/05/29 07:44:08
+# Open Pull Requests (app/red-hat-konflux) - 2026/05/30 06:39:00
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-io-gathering-service | 706 | chore(deps): update go dependencies | 2026-05-29T02:04:13Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/706 | app/red-hat-konflux | failed
-ccx-insights-content-template-renderer | 349 | Update dependency boto3 to v1.43.17 | 2026-05-29T01:43:52Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/349 | app/red-hat-konflux | failed
-insights-results-aggregator-cleaner | 761 | chore(deps): update go dependencies | 2026-05-29T01:27:19Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/761 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 648 | fix(deps): update go dependencies | 2026-05-28T04:57:28Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/648 | app/red-hat-konflux | failed
 insights-results-aggregator | 2505 | chore(deps): lock file maintenance ruby dependencies | 2026-05-26T01:38:29Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2505 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1768 | Lock file maintenance Ruby dependencies | 2026-05-26T00:01:13Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1768 | app/red-hat-konflux | failed
