@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/06/04 08:10:20
+# Open Pull Requests (Others) - 2026/06/05 07:57:27
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 757 | [CCXDEV-16284] Implement memleak workaround from insights-core | 2026-05-20T14:00:41Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/757 | matysek | ok
