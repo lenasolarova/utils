@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/10 07:57:58
+# Open Pull Requests (app/red-hat-konflux) - 2026/06/11 08:25:53
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2520 | chore(deps): update module go.mongodb.org/mongo-driver to v2 | 2026-06-05T06:05:42Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2520 | app/red-hat-konflux | failed
