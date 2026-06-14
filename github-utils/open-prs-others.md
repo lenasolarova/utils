@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/06/13 07:37:39
+# Open Pull Requests (Others) - 2026/06/14 08:05:50
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-messaging | 783 | Fix python-version and update badges | 2026-06-12T14:53:29Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/783 | joselsegura | failed
