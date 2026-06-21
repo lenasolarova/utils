@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/06/20 07:40:16
+# Open Pull Requests (Others) - 2026/06/21 08:19:26
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 io-gathering-service | 371 | Drop legacy building | 2025-03-28T12:35:04Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/371 | ikerreyes | failed

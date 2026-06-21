@@ -1,6 +1,8 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/20 07:40:16
+# Open Pull Requests (app/red-hat-konflux) - 2026/06/21 08:19:26
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-insights-content-template-renderer | 393 | Update dependency boto3 to v1.43.32 | 2026-06-20T21:22:19Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/393 | app/red-hat-konflux | failed
+ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
 obsint-mocks | 286 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2026-06-16T02:33:35Z | https://github.com/RedHatInsights/obsint-mocks/pull/286 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1770 | Update Pre-commit hooks | 2026-06-15T17:44:37Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1770 | app/red-hat-konflux | ok
