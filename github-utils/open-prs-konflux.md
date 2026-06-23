@@ -1,7 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/22 09:36:16
+# Open Pull Requests (app/red-hat-konflux) - 2026/06/23 07:36:36
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-notification-service | 1248 | chore(deps): lock file maintenance | 2026-06-22T02:37:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1248 | app/red-hat-konflux | ok
+ccx-notification-service | 1248 | chore(deps): lock file maintenance | 2026-06-22T02:37:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1248 | app/red-hat-konflux | failed
 ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
 obsint-mocks | 286 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2026-06-16T02:33:35Z | https://github.com/RedHatInsights/obsint-mocks/pull/286 | app/red-hat-konflux | ok
