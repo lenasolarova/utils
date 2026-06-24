@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/23 07:36:36
+# Open Pull Requests (app/red-hat-konflux) - 2026/06/24 07:30:10
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1248 | chore(deps): lock file maintenance | 2026-06-22T02:37:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1248 | app/red-hat-konflux | failed
