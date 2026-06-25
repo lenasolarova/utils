@@ -1,6 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/24 07:30:10
+# Open Pull Requests (app/red-hat-konflux) - 2026/06/25 07:31:46
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2543 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v43.234.0 | 2026-06-24T10:28:47Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2543 | app/red-hat-konflux | failed
 ccx-notification-service | 1248 | chore(deps): lock file maintenance | 2026-06-22T02:37:45Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1248 | app/red-hat-konflux | failed
 ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
