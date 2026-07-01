@@ -1,8 +1,8 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/06/30 07:39:53
+# Open Pull Requests (app/red-hat-konflux) - 2026/07/01 08:00:33
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2562 | chore(deps): update go dependencies to v2 | 2026-06-30T05:36:46Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2562 | app/red-hat-konflux | failed
-ccx-insights-content-template-renderer | 420 | Update Pre-commit hooks to v43.244.4 | 2026-06-30T05:28:40Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/420 | app/red-hat-konflux | failed
+insights-results-aggregator | 2564 | chore(deps): update pre-commit hooks to v43.245.0 | 2026-06-30T21:10:44Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2564 | app/red-hat-konflux | failed
+insights-results-aggregator | 2563 | chore(deps): update go dependencies to v2 | 2026-06-30T16:14:19Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2563 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1773 | Update Pre-commit hooks | 2026-06-26T17:20:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1773 | app/red-hat-konflux | ok
 ccx-notification-service | 1246 | chore(deps): update actions/checkout action to v7 | 2026-06-20T21:14:08Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1246 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1771 | Update GitHub Actions | 2026-06-17T09:47:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1771 | app/red-hat-konflux | failed
