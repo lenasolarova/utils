@@ -1,7 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/07/04 06:38:06
+# Open Pull Requests (app/red-hat-konflux) - 2026/07/05 06:58:09
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2566 | chore(deps): update go dependencies to v2 | 2026-07-03T21:30:12Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2566 | app/red-hat-konflux | failed
+insights-results-aggregator | 2569 | chore(deps): update go dependencies to v2 | 2026-07-05T01:22:07Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2569 | app/red-hat-konflux | failed
 obsint-mocks | 326 | chore(deps): update go dependencies to v5 | 2026-07-03T21:28:23Z | https://github.com/RedHatInsights/obsint-mocks/pull/326 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1777 | Update Go dependencies | 2026-07-03T09:18:05Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1777 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1776 | Update Pre-commit hooks | 2026-07-03T09:11:22Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1776 | app/red-hat-konflux | failed
