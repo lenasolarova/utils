@@ -1,6 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/07/05 06:58:09
+# Open Pull Requests (app/red-hat-konflux) - 2026/07/06 08:07:42
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-insights-content-template-renderer | 439 | Update Python dependencies to v1.43.40 | 2026-07-06T01:14:31Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/439 | app/red-hat-konflux | failed
 insights-results-aggregator | 2569 | chore(deps): update go dependencies to v2 | 2026-07-05T01:22:07Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2569 | app/red-hat-konflux | failed
 obsint-mocks | 326 | chore(deps): update go dependencies to v5 | 2026-07-03T21:28:23Z | https://github.com/RedHatInsights/obsint-mocks/pull/326 | app/red-hat-konflux | ok
 ccx-smart-proxy | 1777 | Update Go dependencies | 2026-07-03T09:18:05Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1777 | app/red-hat-konflux | failed
