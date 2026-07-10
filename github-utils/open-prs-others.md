@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/07/09 07:26:35
+# Open Pull Requests (Others) - 2026/07/10 07:24:33
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1774 | update codecov set up to not enforce target | 2026-07-02T10:19:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1774 | lenasolarova | failed
