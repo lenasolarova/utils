@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/07/20 06:36:35
+# Open Pull Requests (app/red-hat-konflux) - 2026/07/21 06:20:09
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1792 | Update Go dependencies | 2026-07-17T13:16:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1792 | app/red-hat-konflux | failed

@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/07/20 06:36:36
+# Open Pull Requests (Others) - 2026/07/21 06:20:09
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1256 | add full `/go-implement` dynamic workflow for reference for incremental changes | 2026-07-13T12:17:53Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1256 | Bee-lee | ok
