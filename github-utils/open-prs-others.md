@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/07/24 06:16:44
+# Open Pull Requests (Others) - 2026/07/25 06:08:04
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-notification-service | 1262 | improve `go-implement` and `AGENTS.md` based on more real runs with the workflow | 2026-07-24T12:45:39Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1262 | Bee-lee | failed
 insights-behavioral-spec | 808 | chore: small changes to successfully pass sha-extractor tests | 2026-07-21T13:17:17Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/808 | RostyslavKachan | failed
 ccx-notification-service | 1256 | add full `/go-implement` dynamic workflow for reference for incremental changes | 2026-07-13T12:17:53Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1256 | Bee-lee | ok
 ccx-smart-proxy | 1774 | update codecov set up to not enforce target | 2026-07-02T10:19:08Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1774 | lenasolarova | failed
