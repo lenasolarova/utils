@@ -1,15 +1,14 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/07/25 06:08:03
+# Open Pull Requests (app/red-hat-konflux) - 2026/07/26 06:27:09
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator-exporter | 804 | chore(deps): update pre-commit hooks to v43.275.1 | 2026-07-25T05:29:58Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/804 | app/red-hat-konflux | ok
-insights-results-aggregator-cleaner | 924 | chore(deps): update pre-commit hooks to v43.275.1 | 2026-07-25T05:24:14Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/924 | app/red-hat-konflux | ok
-ccx-insights-content-template-renderer | 499 | Update Python dependencies to v1.43.53 | 2026-07-23T21:17:13Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/499 | app/red-hat-konflux | failed
+obsint-mocks | 413 | chore(deps): update go dependencies to v5 | 2026-07-25T13:19:50Z | https://github.com/RedHatInsights/obsint-mocks/pull/413 | app/red-hat-konflux | ok
+ccx-insights-content-template-renderer | 499 | Update Python dependencies | 2026-07-23T21:17:13Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/499 | app/red-hat-konflux | failed
 ccx-notification-writer | 911 | fix(deps): update go dependencies | 2026-07-23T13:40:32Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/911 | app/red-hat-konflux | failed
 insights-results-aggregator | 2627 | fix(deps): update go dependencies | 2026-07-23T13:11:06Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2627 | app/red-hat-konflux | failed
 ccx-messaging | 884 | chore(deps): update github actions to v7 | 2026-07-23T05:09:31Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/884 | app/red-hat-konflux | failed
-insights-results-aggregator | 2626 | chore(deps): update pre-commit hooks to v43.275.1 | 2026-07-22T14:48:25Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2626 | app/red-hat-konflux | ok
-ccx-messaging | 883 | chore(deps): update pre-commit hooks to v43.275.1 | 2026-07-22T14:39:16Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/883 | app/red-hat-konflux | failed
-ccx-insights-content-template-renderer | 498 | Update Pre-commit hooks to v43.275.1 | 2026-07-21T09:55:12Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/498 | app/red-hat-konflux | ok
+insights-results-aggregator | 2626 | chore(deps): update pre-commit hooks to v43.278.4 | 2026-07-22T14:48:25Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2626 | app/red-hat-konflux | failed
+ccx-messaging | 883 | chore(deps): update pre-commit hooks to v43.278.4 | 2026-07-22T14:39:16Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/883 | app/red-hat-konflux | failed
+ccx-insights-content-template-renderer | 498 | Update Pre-commit hooks to v43.278.4 | 2026-07-21T09:55:12Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/498 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1792 | Update Go dependencies | 2026-07-17T13:16:44Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1792 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1791 | Update GitHub Actions | 2026-07-17T13:14:01Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1791 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1790 | Update Pre-commit hooks | 2026-07-17T09:19:54Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1790 | app/red-hat-konflux | failed

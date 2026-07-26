@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/07/25 06:08:04
+# Open Pull Requests (Others) - 2026/07/26 06:27:09
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1262 | improve `go-implement` and `AGENTS.md` based on more real runs with the workflow | 2026-07-24T12:45:39Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1262 | Bee-lee | failed
