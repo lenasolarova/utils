@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/07/28 06:16:36
+# Open Pull Requests (Others) - 2026/07/29 06:22:17
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1265 | dummy commit to test Konflux misbehavior | 2026-07-27T19:49:38Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1265 | Bee-lee | failed
