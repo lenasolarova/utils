@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/08/02 06:24:35
+# Open Pull Requests (Others) - 2026/08/03 06:49:32
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1268 | [CCXDEV-16624] prevent PostgreSQL password to be printed in the logs | 2026-07-31T14:12:35Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1268 | Bee-lee | ok
