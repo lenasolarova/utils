@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/08/09 04:53:26
+# Open Pull Requests (app/red-hat-konflux) - 2026/08/10 05:13:53
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 obsint-mocks | 465 | chore(deps): update module github.com/golang-jwt/jwt/v4 to v5 | 2026-08-08T01:34:43Z | https://github.com/RedHatInsights/obsint-mocks/pull/465 | app/red-hat-konflux | ok
