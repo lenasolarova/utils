@@ -1,10 +1,7 @@
-# Open Pull Requests (Others) - 2026/08/11 04:56:08
+# Open Pull Requests (Others) - 2026/08/12 05:21:52
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-smart-proxy | 1804 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-08-10T13:41:40Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1804 | app/obsint-processing-app | ok
-ccx-notification-writer | 934 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-08-10T13:39:22Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/934 | app/obsint-processing-app | ok
-ccx-notification-service | 1272 | 🔄 synced file(s) with RedHatInsights/processing-tools | 2026-08-10T13:39:13Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1272 | app/obsint-processing-app | ok
-insights-results-aggregator-cleaner | 999 | docs: add AGENTS.md | 2026-08-10T11:53:57Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/999 | lenasolarova | ok
+ccx-messaging | 930 | [CCXDEV-16623] solve ccx-messaging glasswing findings | 2026-08-11T10:00:26Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/930 | joselsegura | ok
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
 ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
