@@ -1,7 +1,6 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/08/14 05:22:36
+# Open Pull Requests (app/red-hat-konflux) - 2026/08/15 04:17:42
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1809 | Update Go dependencies | 2026-08-14T02:43:21Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1809 | app/red-hat-konflux | failed
-insights-results-aggregator | 2685 | chore(deps): update go dependencies | 2026-08-14T01:24:06Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2685 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1808 | Update Pre-commit hooks | 2026-08-12T01:37:20Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1808 | app/red-hat-konflux | failed
 ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
