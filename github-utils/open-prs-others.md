@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/08/18 04:23:01
+# Open Pull Requests (Others) - 2026/08/19 04:24:36
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-notification-service | 1273 | CCXDEV-16664: Migrate OCM Service Log severities to HCC labels | 2026-08-18T09:18:14Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1273 | platex-rehor-bot | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
 ccx-messaging | 915 | Using new dependencies from insights-core-messaging | 2026-08-06T13:52:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/915 | joselsegura | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
