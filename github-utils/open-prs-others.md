@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/08/21 04:26:34
+# Open Pull Requests (Others) - 2026/08/22 04:20:06
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1273 | CCXDEV-16664: Migrate OCM Service Log severities to HCC labels | 2026-08-18T09:18:14Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1273 | platex-rehor-bot | failed
