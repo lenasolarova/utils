@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/08/27 14:50:15
+# Open Pull Requests (Others) - 2026/08/28 15:45:02
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-behavioral-spec | 817 | [CCXDEV-16732] Add BDD tests for Service Log severity levels | 2026-08-27T11:47:47Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/817 | jrosecky | failed
