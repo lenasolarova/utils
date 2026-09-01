@@ -1,8 +1,7 @@
-# Open Pull Requests (Others) - 2026/08/31 10:11:38
+# Open Pull Requests (Others) - 2026/09/01 08:57:52
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-behavioral-spec | 817 | [CCXDEV-16732] Add BDD tests for Service Log severity levels | 2026-08-27T11:47:47Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/817 | jrosecky | failed
-ccx-smart-proxy | 1810 | fix(deps): CCXDEV-16761 bump kin-openapi for CVE-2026-73501 | 2026-08-27T06:40:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1810 | platex-rehor-bot | ok
+ccx-smart-proxy | 1810 | fix(deps): CCXDEV-16761 bump kin-openapi for CVE-2026-73501 | 2026-08-27T06:40:26Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1810 | platex-rehor-bot | failed
 insights-results-aggregator-exporter | 905 | fix(deps): bump kin-openapi to v0.147.0 for CVE-2026-73501 | 2026-08-27T06:29:22Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/905 | platex-rehor-bot | ok
 ccx-notification-service | 1274 | CCXDEV-16757: Bump kin-openapi to v0.147.0 for CVE-2026-73501 | 2026-08-27T06:17:50Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1274 | platex-rehor-bot | ok
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
