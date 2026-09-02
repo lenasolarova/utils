@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/01 08:57:52
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/02 08:11:24
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-insights-content-template-renderer | 580 | Update Pre-commit hooks | 2026-08-23T02:16:05Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/580 | app/red-hat-konflux | failed
