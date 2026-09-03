@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/09/02 08:11:24
+# Open Pull Requests (Others) - 2026/09/03 08:20:46
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1811 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1811 | app/obsint-processing-app | failed

@@ -1,9 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/02 08:11:24
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/03 08:20:46
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-insights-content-template-renderer | 580 | Update Pre-commit hooks | 2026-08-23T02:16:05Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/580 | app/red-hat-konflux | failed
 ccx-notification-writer | 945 | chore(deps): update pre-commit hooks | 2026-08-23T01:47:56Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/945 | app/red-hat-konflux | failed
-ccx-messaging | 942 | chore(deps): update pre-commit hooks | 2026-08-23T01:45:58Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/942 | app/red-hat-konflux | failed
 insights-results-aggregator-cleaner | 1021 | chore(deps): update pre-commit hooks | 2026-08-23T01:36:57Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1021 | app/red-hat-konflux | failed
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 902 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:44Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/902 | app/red-hat-konflux | failed
