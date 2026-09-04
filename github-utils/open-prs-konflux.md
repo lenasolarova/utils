@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/03 08:20:46
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/04 08:16:47
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-writer | 945 | chore(deps): update pre-commit hooks | 2026-08-23T01:47:56Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/945 | app/red-hat-konflux | failed
