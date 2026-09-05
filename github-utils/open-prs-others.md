@@ -1,7 +1,6 @@
-# Open Pull Requests (Others) - 2026/09/04 08:16:47
+# Open Pull Requests (Others) - 2026/09/05 07:54:00
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-smart-proxy | 1811 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:57Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1811 | app/obsint-processing-app | failed
 insights-results-aggregator-exporter | 912 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:31Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/912 | app/obsint-processing-app | failed
 insights-results-aggregator-cleaner | 1031 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1031 | app/obsint-processing-app | failed
 insights-results-aggregator | 2707 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2707 | app/obsint-processing-app | failed
