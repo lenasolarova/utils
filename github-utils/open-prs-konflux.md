@@ -1,6 +1,13 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/05 07:53:59
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/06 08:10:30
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-insights-content-template-renderer | 599 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-06T05:09:52Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/599 | app/red-hat-konflux | ok
+insights-results-aggregator-exporter | 916 | chore(deps): update go dependencies | 2026-09-06T01:28:21Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/916 | app/red-hat-konflux | failed
+insights-results-aggregator-cleaner | 1035 | chore(deps): update go dependencies | 2026-09-06T01:25:10Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1035 | app/red-hat-konflux | failed
+io-gathering-service | 983 | chore(deps): update go dependencies | 2026-09-06T01:21:45Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/983 | app/red-hat-konflux | failed
+ccx-notification-writer | 958 | chore(deps): update go dependencies | 2026-09-06T01:20:49Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/958 | app/red-hat-konflux | failed
+insights-results-aggregator | 2710 | chore(deps): update go dependencies | 2026-09-06T01:15:50Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2710 | app/red-hat-konflux | failed
+insights-behavioral-spec | 821 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-05T08:17:45Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/821 | app/red-hat-konflux | ok
 obsint-mocks | 517 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-05T07:24:12Z | https://github.com/RedHatInsights/obsint-mocks/pull/517 | app/red-hat-konflux | ok
 ccx-messaging | 948 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-05T07:18:02Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/948 | app/red-hat-konflux | ok
 ccx-notification-writer | 957 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-05T04:26:18Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/957 | app/red-hat-konflux | failed
