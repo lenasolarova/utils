@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/09/07 08:41:51
+# Open Pull Requests (Others) - 2026/09/08 08:23:19
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator-exporter | 912 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:31Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/912 | app/obsint-processing-app | failed
