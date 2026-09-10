@@ -1,7 +1,7 @@
-# Open Pull Requests (Others) - 2026/09/09 08:25:39
+# Open Pull Requests (Others) - 2026/09/10 08:27:58
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-notification-service | 1276 | [CCXDEV-16567] Filter disabled rules in the Kafka processing path | 2026-09-08T11:11:44Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1276 | Bee-lee | ok
+ccx-messaging | 956 | [CCXDEV-16673] Use URL instead of S3 path for rules-processing | 2026-09-10T07:11:27Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/956 | joselsegura | failed
 insights-results-aggregator-exporter | 912 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:31Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/912 | app/obsint-processing-app | failed
 insights-results-aggregator-cleaner | 1031 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1031 | app/obsint-processing-app | failed
 insights-results-aggregator | 2707 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2707 | app/obsint-processing-app | failed
