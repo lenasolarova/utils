@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/11 08:22:12
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/12 08:10:56
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1820 | Update Pre-commit hooks | 2026-09-08T05:39:56Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1820 | app/red-hat-konflux | failed
@@ -23,4 +23,3 @@ insights-results-aggregator-cleaner | 1021 | chore(deps): update pre-commit hook
 insights-behavioral-spec | 816 | Update Pre-commit hooks | 2026-08-23T01:35:27Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/816 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 902 | chore(deps): update pre-commit hooks | 2026-08-23T01:24:44Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/902 | app/red-hat-konflux | failed
 io-gathering-service | 969 | chore(deps): update pre-commit hooks | 2026-08-23T01:20:32Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/969 | app/red-hat-konflux | failed
-ccx-messaging | 888 | fix(deps): update python dependencies | 2026-07-30T09:24:05Z | https://github.com/RedHatInsights/insights-ccx-messaging/pull/888 | app/red-hat-konflux | failed
