@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/09/13 08:35:20
+# Open Pull Requests (Others) - 2026/09/14 09:19:32
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-results-aggregator | 2712 | CCXDEV-16817: Bump mongo-driver to v1.17.10 (CVE-2026-88031) | 2026-09-14T08:42:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2712 | platex-rehor-bot | ok
 insights-results-aggregator-exporter | 912 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:31Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/912 | app/obsint-processing-app | failed
 insights-results-aggregator-cleaner | 1031 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1031 | app/obsint-processing-app | failed
 insights-results-aggregator | 2707 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2707 | app/obsint-processing-app | failed
