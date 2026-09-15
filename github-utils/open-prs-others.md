@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/09/14 09:19:32
+# Open Pull Requests (Others) - 2026/09/15 09:01:17
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator | 2712 | CCXDEV-16817: Bump mongo-driver to v1.17.10 (CVE-2026-88031) | 2026-09-14T08:42:24Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2712 | platex-rehor-bot | ok

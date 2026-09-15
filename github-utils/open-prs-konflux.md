@@ -1,6 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/14 09:19:32
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/15 09:01:17
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+ccx-insights-content-template-renderer | 620 | Update dependency boto3 to v1.43.93 | 2026-09-15T01:32:08Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/620 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1820 | Update Pre-commit hooks | 2026-09-08T05:39:56Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1820 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1819 | Update Go dependencies | 2026-09-08T05:39:45Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1819 | app/red-hat-konflux | failed
 obsint-mocks | 523 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-08T05:23:14Z | https://github.com/RedHatInsights/obsint-mocks/pull/523 | app/red-hat-konflux | ok
