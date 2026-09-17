@@ -1,13 +1,6 @@
-# Open Pull Requests (Others) - 2026/09/16 08:53:44
+# Open Pull Requests (Others) - 2026/09/17 08:58:29
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-io-gathering-service | 987 | Bump Go version to 1.26 for check-config job | 2026-09-16T08:40:43Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/987 | ikerreyes | ok
-insights-results-aggregator-cleaner | 1036 | chore(deps): update pre-commit hooks and processing-tools to v0.4.5 | 2026-09-15T12:05:58Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1036 | ikerreyes | ok
-insights-results-aggregator | 2713 | chore(deps): update processing-tools and pre-commit hooks | 2026-09-15T10:15:32Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2713 | ikerreyes | ok
-insights-results-aggregator-exporter | 917 | chore(deps): bump processing-tools to v0.4.5 and update pre-commit hooks | 2026-09-15T10:07:58Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/917 | ikerreyes | ok
-insights-results-aggregator-exporter | 912 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:31Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/912 | app/obsint-processing-app | failed
-insights-results-aggregator-cleaner | 1031 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:23Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1031 | app/obsint-processing-app | failed
-insights-results-aggregator | 2707 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:13:15Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2707 | app/obsint-processing-app | failed
 ccx-notification-service | 1275 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:11:25Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1275 | app/obsint-processing-app | failed
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
 io-gathering-service | 922 | [CCXDEV-16644] Remove unused in-process authentication middleware | 2026-08-03T12:24:25Z | https://github.com/RedHatInsights/insights-operator-gathering-conditions-service/pull/922 | juandspy | ok
