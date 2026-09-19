@@ -1,12 +1,9 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/18 08:33:18
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/19 08:20:19
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-smart-proxy | 1827 | Update Pre-commit hooks | 2026-09-18T01:33:50Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1827 | app/red-hat-konflux | ok
-obsint-mocks | 541 | chore(deps): update redhatinsights/processing-tools action to v0.4.5 | 2026-09-17T03:37:52Z | https://github.com/RedHatInsights/obsint-mocks/pull/541 | app/red-hat-konflux | ok
-insights-results-aggregator | 2715 | fix(deps): update go dependencies | 2026-09-17T03:36:36Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2715 | app/red-hat-konflux | failed
-insights-behavioral-spec | 826 | Update Pre-commit hooks | 2026-09-17T03:21:09Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/826 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1823 | Update Go dependencies | 2026-09-17T03:16:49Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1823 | app/red-hat-konflux | failed
-insights-results-aggregator-exporter | 919 | chore(deps): update go dependencies | 2026-09-17T03:11:01Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/919 | app/red-hat-konflux | failed
-ccx-notification-writer | 962 | chore(deps): update go dependencies | 2026-09-17T02:31:17Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/962 | app/red-hat-konflux | failed
-insights-results-aggregator-cleaner | 1038 | chore(deps): update go dependencies | 2026-09-17T02:20:09Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1038 | app/red-hat-konflux | failed
-insights-behavioral-spec | 823 | Update RedHatInsights/processing-tools action to v0.4.5 | 2026-09-08T05:14:10Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/823 | app/red-hat-konflux | ok
+insights-results-aggregator-exporter | 926 | chore(deps): update go dependencies | 2026-09-19T02:33:03Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/926 | app/red-hat-konflux | failed
+ccx-notification-writer | 965 | chore(deps): update go dependencies | 2026-09-19T02:22:30Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/965 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1831 | Update Pre-commit hooks | 2026-09-19T02:21:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1831 | app/red-hat-konflux | ok
+insights-results-aggregator-cleaner | 1044 | fix(deps): update go dependencies | 2026-09-19T02:20:36Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1044 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1830 | Update Go dependencies | 2026-09-19T02:20:17Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1830 | app/red-hat-konflux | failed
+insights-results-aggregator | 2721 | fix(deps): update go dependencies | 2026-09-19T02:11:00Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2721 | app/red-hat-konflux | failed
