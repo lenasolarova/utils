@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/09/19 08:20:20
+# Open Pull Requests (Others) - 2026/09/20 08:52:10
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1275 | chore(sync): synced file(s) with RedHatInsights/processing-tools | 2026-09-02T06:11:25Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1275 | app/obsint-processing-app | failed
