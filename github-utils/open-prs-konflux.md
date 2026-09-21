@@ -1,7 +1,6 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/09/20 08:52:10
+# Open Pull Requests (app/red-hat-konflux) - 2026/09/21 09:22:01
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator | 2722 | chore(deps): update pre-commit hooks | 2026-09-20T00:41:02Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2722 | app/red-hat-konflux | failed
 insights-results-aggregator-exporter | 926 | chore(deps): update go dependencies | 2026-09-19T02:33:03Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/926 | app/red-hat-konflux | failed
 ccx-notification-writer | 965 | chore(deps): update go dependencies | 2026-09-19T02:22:30Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/965 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1831 | Update Pre-commit hooks | 2026-09-19T02:21:19Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1831 | app/red-hat-konflux | ok
