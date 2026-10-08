@@ -1,9 +1,7 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/10/07 10:38:43
+# Open Pull Requests (app/red-hat-konflux) - 2026/10/08 10:59:33
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-insights-results-aggregator-cleaner | 1079 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.132.5 | 2026-10-07T04:45:44Z | https://github.com/RedHatInsights/insights-results-aggregator-cleaner/pull/1079 | app/red-hat-konflux | ok
-insights-results-aggregator | 2745 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.132.5 | 2026-10-07T01:49:33Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2745 | app/red-hat-konflux | failed
-ccx-insights-content-template-renderer | 670 | Update pre-commit hook renovatebot/pre-commit-hooks to v44.132.5 | 2026-10-07T01:30:46Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/670 | app/red-hat-konflux | ok
-ccx-smart-proxy | 1846 | Update Pre-commit hooks | 2026-10-07T01:16:03Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1846 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1845 | Update Go dependencies | 2026-10-06T01:48:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1845 | app/red-hat-konflux | failed
-ccx-smart-proxy | 1844 | Update Ruby dependencies | 2026-10-06T01:33:33Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1844 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1849 | Update Pre-commit hooks | 2026-10-08T04:44:48Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1849 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1848 | Update Go dependencies | 2026-10-08T00:56:24Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1848 | app/red-hat-konflux | failed
+ccx-insights-content-template-renderer | 671 | Update pre-commit hook renovatebot/pre-commit-hooks to v44.133.0 | 2026-10-08T00:43:33Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/671 | app/red-hat-konflux | failed
+ccx-smart-proxy | 1847 | Update Ruby dependencies | 2026-10-08T00:40:59Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1847 | app/red-hat-konflux | failed
