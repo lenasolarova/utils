@@ -1,8 +1,6 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/10/14 09:05:27
+# Open Pull Requests (app/red-hat-konflux) - 2026/10/15 08:38:43
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
-ccx-insights-content-template-renderer | 680 | Update pre-commit hook renovatebot/pre-commit-hooks to v44.149.3 | 2026-10-14T01:02:22Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/680 | app/red-hat-konflux | failed
-insights-results-aggregator | 2756 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.149.3 | 2026-10-14T00:56:46Z | https://github.com/RedHatInsights/insights-results-aggregator/pull/2756 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1854 | Update Pre-commit hooks | 2026-10-10T07:16:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1854 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1853 | Update Go dependencies | 2026-10-10T07:14:11Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1853 | app/red-hat-konflux | failed
 ccx-smart-proxy | 1852 | Update Ruby dependencies | 2026-10-10T02:20:23Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1852 | app/red-hat-konflux | failed
