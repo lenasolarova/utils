@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/10/19 09:22:16
+# Open Pull Requests (Others) - 2026/10/20 08:57:37
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1271 | [CCXDEV-16563] add aggregator database configuration to Clowdapp | 2026-08-07T13:37:22Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1271 | Bee-lee | failed
