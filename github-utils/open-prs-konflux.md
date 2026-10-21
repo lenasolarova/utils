@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/10/20 08:57:37
+# Open Pull Requests (app/red-hat-konflux) - 2026/10/21 08:56:24
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1854 | Update Pre-commit hooks | 2026-10-10T07:16:04Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1854 | app/red-hat-konflux | failed
