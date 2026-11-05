@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/11/04 11:40:38
+# Open Pull Requests (app/red-hat-konflux) - 2026/11/05 11:41:08
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-writer | 998 | chore(deps): update pre-commit hook astral-sh/ruff-pre-commit to v0.17.3 | 2026-10-30T03:16:47Z | https://github.com/RedHatInsights/ccx-notification-writer/pull/998 | app/red-hat-konflux | failed
