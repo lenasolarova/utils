@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/11/07 10:45:10
+# Open Pull Requests (Others) - 2026/11/08 10:49:37
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-notification-service | 1288 | dummy PR to trigger CI in order to test new BDD tests | 2026-11-04T15:01:59Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1288 | Bee-lee | failed
