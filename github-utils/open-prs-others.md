@@ -1,6 +1,7 @@
-# Open Pull Requests (Others) - 2026/11/08 10:49:37
+# Open Pull Requests (Others) - 2026/11/09 12:15:55
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
+insights-behavioral-spec | 854 | Add BDD tests for the batch render endpoint /v2/rendered_reports | 2026-11-09T11:43:33Z | https://github.com/RedHatInsights/insights-behavioral-spec/pull/854 | JiriPapousek | ok
 ccx-notification-service | 1288 | dummy PR to trigger CI in order to test new BDD tests | 2026-11-04T15:01:59Z | https://github.com/RedHatInsights/ccx-notification-service/pull/1288 | Bee-lee | failed
 ccx-smart-proxy | 1865 | [CCXDEV-16882] Add render query parameter to recommendations endpoints | 2026-11-04T08:29:55Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1865 | JiriPapousek | ok
 ccx-insights-content-template-renderer | 710 | [CCXDEV-16882] Add /v2/rendered_reports endpoint for item-based template rendering | 2026-11-02T13:09:34Z | https://github.com/RedHatInsights/insights-content-template-renderer/pull/710 | JiriPapousek | ok
