@@ -1,4 +1,4 @@
-# Open Pull Requests (app/red-hat-konflux) - 2026/11/18 12:23:29
+# Open Pull Requests (app/red-hat-konflux) - 2026/11/19 12:17:28
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 insights-results-aggregator-exporter | 1030 | chore(deps): update pre-commit hook renovatebot/pre-commit-hooks to v44.227.4 | 2026-11-14T03:30:21Z | https://github.com/RedHatInsights/insights-results-aggregator-exporter/pull/1030 | app/red-hat-konflux | failed
