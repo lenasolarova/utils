@@ -1,4 +1,4 @@
-# Open Pull Requests (Others) - 2026/11/21 11:52:44
+# Open Pull Requests (Others) - 2026/11/22 12:05:15
 repo | pr_id | title | date_created | url | author | ci_status
 ---|---|---|---|---|---|---
 ccx-smart-proxy | 1881 | [CCXDEV-17083] Enable Redis TLS when AUTH password is set | 2026-11-17T09:28:10Z | https://github.com/RedHatInsights/insights-results-smart-proxy/pull/1881 | juandspy | failed
